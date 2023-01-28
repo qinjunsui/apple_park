@@ -1,0 +1,19 @@
+{
+  "name": "apple_park",
+  "version": "1.0.0",
+  "description": "1st deployment test to google clou d",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qinjunsui/apple_park.git"
+  },
+  "author": "Helen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qinjunsui/apple_park/issues"
+  },
+  "homepage": "https://github.com/qinjunsui/apple_park#readme"
+}
